@@ -6,10 +6,10 @@
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<nav class="navbar navbar-inverse">
+<nav class="navbar navbar-default">
     <div class="container-fluid">
         <div class="navbar-header">
-            <a class="navbar-brand" href="http://j2os.org">J2OS</a>
+            <a class="navbar-brand" >JAVA DEVS</a>
         </div>
         <ul class="nav navbar-nav">
             <li><a href="/">Home</a></li>
